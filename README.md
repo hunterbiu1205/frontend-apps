@@ -1,6 +1,6 @@
 # frontend-apps
 
-Below are some front-end projects/apps that I built.
+Below are some front-end projects/apps that I built. Ideas from different sources.
 
 | Name | Demo | Short Description |
 | ------------- | ------------- |------------- |
