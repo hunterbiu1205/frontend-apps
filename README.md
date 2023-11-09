@@ -1,6 +1,8 @@
 # frontend-apps
 
-Below are some front-end projects/apps that I built. Ideas from different sources.
+Below are some frontend apps I've built, some inspired by unique ideas from various sources.
+These projects reflect my ongoing journey to improve my frontend skills and fascination with innovative concepts. 
+Explore, learn, and be inspired by these diverse web applications. 🚀💻
 
 | Name | Demo | Short Description |
 | ------------- | ------------- |------------- |
