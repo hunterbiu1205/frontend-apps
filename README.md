@@ -2,7 +2,7 @@
 
 Below are some front-end apps I've built, some inspired by unique ideas from various sources.
 
-Explore, learn, and be inspired by these diverse web applications. 🚀💻
+Explore, learn, and be inspired by these diverse projects. 🚀💻
 
 | Name | Demo | Short Description |
 | ------------- | ------------- |------------- |
