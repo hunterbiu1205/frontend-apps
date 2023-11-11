@@ -6,5 +6,7 @@ Explore, learn, and be inspired by these diverse projects. 🚀💻
 
 | Name | Demo | Short Description |
 | ------------- | ------------- |------------- |
-| [Bin2Dec](https://github.com/hunterbiu1205/Bin2dec) | [Demo ](https://4q5lqd-3000.csb.app/)  |Binary to Decimal number converter | 
+| [Bin2Dec](https://github.com/hunterbiu1205/Bin2dec) | [Demo ](https://4q5lqd-3000.csb.app/) |Binary to Decimal number converter | 
+| [Christmas light](https://github.com/hunterbiu1205/Christmas-lights) | [Demo ](https://29nr89-1234.csb.app/) |Simulate a string of Christmas lights | 
+
 
