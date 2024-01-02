@@ -8,6 +8,6 @@ Explore, learn, and be inspired by these diverse projects. 🚀💻
 | ------------- | ------------- |------------- |
 | [Bin2Dec](https://github.com/hunterbiu1205/Bin2dec) | [Demo ](https://4q5lqd-3000.csb.app/) |Binary to Decimal number converter| 
 | [Christmas lights](https://github.com/hunterbiu1205/Christmas-lights) | [Demo ](https://m7qv6t-1234.csb.app/) |Simulate a string of Christmas lights| 
-| [CWeather app](https://github.com/hunterbiu1205/Weather-app) | [Demo ](https://hntgn2-1234.csb.app/) |Get the temperature, weather condition of a city| 
+| [Weather app](https://github.com/hunterbiu1205/Weather-app) | [Demo ](https://hntgn2-1234.csb.app/) |Get the temperature, weather condition of a city| 
 
 
